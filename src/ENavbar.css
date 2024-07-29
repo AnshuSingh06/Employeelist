@@ -1,0 +1,20 @@
+.filter-control {
+    margin-left: 8px;
+    min-width: 100px;
+    background-color: white;
+    border-radius: 4px;
+  }
+  
+  .navbar-brand {
+    flex-grow: 1;
+  }
+  
+  .navbar {
+    background-color: #B692C2 !important; 
+  }
+  
+  .navbar .form-inline {
+    display: flex;
+    align-items: center;
+  }
+  

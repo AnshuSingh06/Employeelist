@@ -1,0 +1,11 @@
+/* UserList.css */
+.table-hover tbody tr:hover {
+  background-color: #f5f5f5; /* Light grey background color on hover */
+}
+
+.sort-icon {
+  color: brown;
+  margin-left: 5px;
+}
+
+
