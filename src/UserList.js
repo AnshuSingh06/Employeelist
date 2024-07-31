@@ -6,7 +6,6 @@ import { styled } from '@mui/material/styles';//for creating styled components w
 import ENavbar from './ENavbar'; // import the Navbar component
 import Nav from './Nav';//import the header
 import { MDBTable, MDBTableHead, MDBTableBody } from 'mdb-react-ui-kit';//it is a UI kit based on bootstrap and material design
-// import '@fortawesome/fontawesome-free/css/all.min.css'; //import Font Awesome
 import './UserList.css'; //import the css file
 
 const UserListContainer = styled(Container)(({ theme }) => ({
